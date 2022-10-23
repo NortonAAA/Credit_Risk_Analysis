@@ -20,7 +20,7 @@ There were 2 groups of models leverage Resammpling models and Ensemble Models. E
 2. Easy Ensemble AdaBoost Classifier
 
 #### Figure 2: Summary of All Models
-![](https://github.com/NortonAAA/Credit_Risk_Analysis/blob/main/images/imbalanced_summary_example.png)
+![](https://github.com/NortonAAA/Credit_Risk_Analysis/blob/main/images/all_model_summary.png)
 
 ## Summary
 
