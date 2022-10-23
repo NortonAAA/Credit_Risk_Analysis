@@ -7,8 +7,8 @@ The purpose of this analysis is to review the level of accuracy, precision, and 
 ## Results
 There were 2 groups of models leverage Resammpling models and Ensemble Models. Each method has it's Accuracy along with it precision and recall scores in generated in the Machine Learning Environment as example below for Random Oversampling
 #### Figure 1: Examples of Python Output
-![](https://github/com/NortonAAA/Credit_Risk_Analysis/main/blob/images/accuracy_score_example.png)
-![](https://github/com/NortonAAA/Credit_Risk_Analysis/main/blob/images/imbalanced_summary_example.png)
+![](https://github.com/NortonAAA/Credit_Risk_Analysis/main/blob/images/accuracy_score_example.png)
+![](https://github.com/NortonAAA/Credit_Risk_Analysis/main/blob/images/imbalanced_summary_example.png)
 #### Resampling Models
 1. Naive Random Oversampling
 2. Synthetic Minority Oversampling Technique (SMOTE)
