@@ -23,9 +23,4 @@ There were 2 groups of models leverage Resammpling models and Ensemble Models. E
 ![](https://github.com/NortonAAA/Credit_Risk_Analysis/blob/main/images/all_model_summary.png)
 
 ## Summary
-
-
-
-
-
-- 
+As above, we can see that the Easy Ensemble AdaBoost has the highest level of accuracy without overfitting the data. Interestingly all models have a average precision of 0.99 (practically 1) while the Easy Ensemble AdaBoost had a 0.07 precision on high risk loans. We would also select the Easy Ensemble AdaBoost for the higher level of completeness in recall scores on both high risk and low risk loans.
